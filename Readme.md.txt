@@ -1,4 +1,4 @@
-# 🧠 SSVEP EEG Pipeline
+# SSVEP EEG Pipeline
 
 This repository provides a modular and extensible PyTorch pipeline for training, validating, and fine-tuning neural models on Steady-State Visual Evoked Potential (SSVEP) EEG data. The architecture is designed for reproducible research, supporting multi-head Transformer-based models, per-subject fine-tuning, and advanced loss functions such as Deep CCA and reconstruction loss.
 
